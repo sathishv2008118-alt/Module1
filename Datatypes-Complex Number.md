@@ -12,8 +12,16 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+```
+number=int(input())
+if (number%9==0 ) and (number%5==0):
+    print(f"{number} is divisible by both 5 and 9")
+else:
+    print(f"{number} is NOT divisible by both 5 and 9")
+  ```  
 
 ## Output
+<img width="861" height="234" alt="Screenshot 2025-12-28 110333" src="https://github.com/user-attachments/assets/e68535f1-878a-44d1-97d1-ae2dacedb829" />
+
 
 ## Result
