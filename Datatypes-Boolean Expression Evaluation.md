@@ -15,7 +15,12 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+int_value = int(input())
+float_value = float(input())
+print(int_value, float_value)
+
 
 ## Output
+<img width="840" height="250" alt="Screenshot 2025-12-28 105426" src="https://github.com/user-attachments/assets/c93ca074-278f-47fe-be7c-a2bcaf5ee0bd" />
+
 ## Result
